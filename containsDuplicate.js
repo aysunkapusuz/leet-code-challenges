@@ -27,3 +27,7 @@
     }
     return num != 0;
 };
+
+//have an array with nums
+//return true if the numb exist more than one otherwise return false
+//example [1,2,3,1]=> true
