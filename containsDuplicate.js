@@ -27,7 +27,7 @@
     }
     return num != 0;
 };
-
+// prep
 //have an array with nums
 //return true if the numb exist more than one otherwise return false
 //example [1,2,3,1]=> true
